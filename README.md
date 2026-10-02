@@ -13,5 +13,11 @@
 * **Digital Shift Buffer**: 配信事業を含めた統合セグメントによる「延命効果」の可視化。
 * **Interactive UI**: 各局のXデー予測年と、営業利益の将来推移をリアルタイムにチャート描画。
 
-## License
-MIT License
+## 📄 License / ライセンス
+
+- **Code**（HTML / CSS / JavaScript）: [MIT License](LICENSE)
+- **Content**（文章・図表・分析結果・整理済みデータ）: [CC BY 4.0](LICENSE-CONTENT.md)
+- 出典表示例 / Attribution: Naohisa Hashimoto, "japan-broadcasters-xday-analysis", https://naohisastry.github.io/japan-broadcasters-xday-analysis/
+- 第三者の元データの権利は各発行元に帰属します。 / Third-party source data remain the property of their original publishers.
+
+© 2026 Naohisa Hashimoto
